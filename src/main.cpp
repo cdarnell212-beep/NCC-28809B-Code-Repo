@@ -13,7 +13,7 @@
 // ---- END VEXCODE CONFIGURED DEVICES ----
 
 using namespace vex;
-competition Competition;;;
+competition Competition;
 
 /*---------------------------------------------------------------------------*/
 /*                             VEXcode Config                                */

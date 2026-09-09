@@ -12,7 +12,7 @@
 
 int print(){
   while (true){
-    Controller1.Screen.print(Inertial5.heading());
+    Controller1.Screen.print(Inertial5.heading());;
     Controller1.Screen.setCursor(1, 1);
     wait(50, msec);
   }
